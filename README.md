@@ -55,5 +55,5 @@ streamlit run app.py
 
 ## 📊 Dashboard Preview
 
-![Dashboard](screenshot.png)
+![Dashboard](Screenshot.png)
 
